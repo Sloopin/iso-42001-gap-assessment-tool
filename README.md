@@ -1,4 +1,3 @@
-````markdown
 # ISO/IEC 42001 Gap Assessment Tool
 
 This is a web application prototype, built with Python and Flask, to conduct a gap assessment for organizational readiness for the ISO/IEC 42001 AI Management Systems (AIMS) standard.
@@ -7,7 +6,7 @@ This prototype was built as a proactive demonstration for the graduation interns
 
 ## Features
 
-* **Interactive Questionnaire:** A multi-page assessment that walks the user through key clauses of the ISO 42001 standard.
+* **Interactive Questionnaire:** A multi-page assessment that walks the user through clauses of the ISO 42001 standard.
 * **Dynamic Scoring:** A simple, three-tiered response system (`Not Implemented`, `Partially Implemented`, `Fully Implemented`) for each question.
 * **Session Management:** User's answers are saved in a server-side session as they navigate between pages.
 * **Automated Report Generation:** A final report page that calculates an overall compliance score (in percentage) and provides a detailed gap analysis.
